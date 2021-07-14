@@ -1,2 +1,2 @@
 # WordQ
-A simple app to parse dictionary data online
+A simple English dictionary made with RUST
