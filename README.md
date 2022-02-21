@@ -1,2 +1,2 @@
 # WordQ
-A simple English dictionary made with RUST
+A simple English words scraper made with go for windows
